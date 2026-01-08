@@ -1,4 +1,4 @@
-# SharePointPS_Public
+# SharePointPS_PUIDMismatch
 
 PowerShell utilities for SharePoint Online / OneDrive administration at scale.
 Currently includes tooling to detect and remediate PUID mismatch issues that block access to OneDrive/SPO resources.
